@@ -2,3 +2,10 @@
 
 Started at: 2025-08-16T19:57:23.934209
 
+
+
+--- Agent started at 2025-08-16T19:57:24.939329 ---
+
+Error: When using --print, --output-format=stream-json requires --verbose
+
+--- Agent completed at 2025-08-16T19:57:25.808690 ---
