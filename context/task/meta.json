@@ -1,0 +1,86 @@
+{
+  "issue": {
+    "number": 18,
+    "id": 3327242584,
+    "node_id": "I_kwDOPe7hG87GUbFY",
+    "title": "dasasda",
+    "state": "open",
+    "locked": false,
+    "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/18",
+    "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/18",
+    "comments_count": 1,
+    "created_at": "2025-08-16T12:37:27+00:00",
+    "updated_at": "2025-08-16T12:37:32+00:00",
+    "closed_at": null,
+    "body": ""
+  },
+  "author": {
+    "login": "NicolasIRAGNE",
+    "id": 16356420,
+    "node_id": "MDQ6VXNlcjE2MzU2NDIw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+    "url": "https://github.com/NicolasIRAGNE",
+    "type": "User"
+  },
+  "assignees": [],
+  "labels": [],
+  "milestone": null,
+  "task": {
+    "state": "draft",
+    "issue_number": 18,
+    "updated_at": "2025-08-16T14:37:39.154320",
+    "step_prs": {
+      "step_prs": [],
+      "proposal_branch": "openmoat/task/18/proposal",
+      "workflow_steps": [
+        "research",
+        "coding",
+        "manual_review"
+      ]
+    }
+  },
+  "repository": {
+    "full_name": "NicolasIRAGNE/hello_world_test",
+    "name": "hello_world_test",
+    "owner": "NicolasIRAGNE",
+    "private": false,
+    "default_branch": "main"
+  },
+  "pull_request": null,
+  "reactions": {
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "comments": [
+    {
+      "id": 3193644916,
+      "node_id": "IC_kwDOPe7hG86-Wyd0",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T12:37:32+00:00",
+      "updated_at": "2025-08-16T12:37:32+00:00",
+      "body": "/start",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/18#issuecomment-3193644916",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  ]
+}
