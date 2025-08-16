@@ -1,0 +1,86 @@
+{
+  "issue": {
+    "number": 71,
+    "id": 3327444447,
+    "node_id": "I_kwDOPe7hG87GVMXf",
+    "title": "Add hello world in python",
+    "state": "open",
+    "locked": false,
+    "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/71",
+    "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/71",
+    "comments_count": 1,
+    "created_at": "2025-08-16T16:51:24+00:00",
+    "updated_at": "2025-08-16T16:51:35+00:00",
+    "closed_at": null,
+    "body": ""
+  },
+  "author": {
+    "login": "NicolasIRAGNE",
+    "id": 16356420,
+    "node_id": "MDQ6VXNlcjE2MzU2NDIw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+    "url": "https://github.com/NicolasIRAGNE",
+    "type": "User"
+  },
+  "assignees": [],
+  "labels": [],
+  "milestone": null,
+  "task": {
+    "state": "draft",
+    "issue_number": 71,
+    "updated_at": "2025-08-16T18:51:55.612255",
+    "step_prs": {
+      "step_prs": [],
+      "proposal_branch": "openmoat/task/71/proposal",
+      "workflow_steps": [
+        "research",
+        "coding",
+        "manual_review"
+      ]
+    }
+  },
+  "repository": {
+    "full_name": "NicolasIRAGNE/hello_world_test",
+    "name": "hello_world_test",
+    "owner": "NicolasIRAGNE",
+    "private": false,
+    "default_branch": "main"
+  },
+  "pull_request": null,
+  "reactions": {
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "comments": [
+    {
+      "id": 3193783931,
+      "node_id": "IC_kwDOPe7hG86-XUZ7",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T16:51:35+00:00",
+      "updated_at": "2025-08-16T16:51:35+00:00",
+      "body": "/start",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/71#issuecomment-3193783931",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  ]
+}
