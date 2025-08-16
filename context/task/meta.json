@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/8",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/8",
-    "comments_count": 1,
+    "comments_count": 2,
     "created_at": "2025-08-16T12:27:23+00:00",
-    "updated_at": "2025-08-16T12:27:27+00:00",
+    "updated_at": "2025-08-16T12:27:53+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -28,7 +28,7 @@
   "task": {
     "state": "draft",
     "issue_number": 8,
-    "updated_at": "2025-08-16T14:27:44.021257",
+    "updated_at": "2025-08-16T14:27:57.596852",
     "sub_issues": {
       "sub_issues": [
         {
@@ -93,6 +93,30 @@
       "updated_at": "2025-08-16T12:27:27+00:00",
       "body": "/start",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/8#issuecomment-3193637488",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193637672,
+      "node_id": "IC_kwDOPe7hG86-Wwso",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T12:27:53+00:00",
+      "updated_at": "2025-08-16T12:27:53+00:00",
+      "body": "🚀 **Workflow Started**\n\nProposal PR created: #12\nSub-issues created: #9, #10, #11\n\nThe workflow has been initiated. Each sub-issue will have its own branch and PR.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/8#issuecomment-3193637672",
       "reactions": {
         "+1": 0,
         "-1": 0,
