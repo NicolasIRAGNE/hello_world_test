@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/4",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/4",
-    "comments_count": 0,
+    "comments_count": 1,
     "created_at": "2025-08-16T12:14:39+00:00",
-    "updated_at": "2025-08-16T12:14:39+00:00",
+    "updated_at": "2025-08-16T12:14:59+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -23,12 +23,18 @@
     "type": "User"
   },
   "assignees": [],
-  "labels": [],
+  "labels": [
+    {
+      "name": "draft",
+      "color": "ededed",
+      "description": null
+    }
+  ],
   "milestone": null,
   "task": {
     "state": "draft",
     "issue_number": 4,
-    "updated_at": "2025-08-16T14:14:51.505218"
+    "updated_at": "2025-08-16T14:15:17.181401"
   },
   "repository": {
     "full_name": "NicolasIRAGNE/hello_world_test",
@@ -48,5 +54,30 @@
     "rocket": 0,
     "eyes": 0
   },
-  "comments": []
+  "comments": [
+    {
+      "id": 3193630747,
+      "node_id": "IC_kwDOPe7hG86-WvAb",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T12:14:58+00:00",
+      "updated_at": "2025-08-16T12:14:58+00:00",
+      "body": "🤖 **Automated Task Branch Created**\n\nA new branch has been created for this issue:\n- Branch: [`openmoat/task/4/proposal`](https://github.com/NicolasIRAGNE/hello_world_test/tree/openmoat/task/4/proposal)\n- Task State: `draft` (initial state)\n- File: `context/task/meta.json` - Complete issue metadata including:\n  - Issue details (title, body, timestamps)\n  - Author and assignees\n  - Labels and milestone\n  - All comments with full history\n  - Task state machine state\n\n**Important:** The task state in `meta.json` is the source of truth.\n- GitHub labels are synced FROM the repo state, not the other way around\n- Manual label changes are automatically restored before commits\n- Only real issue changes (comments, assignees, etc.) trigger updates\nThis branch will be automatically updated when the issue changes.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/4#issuecomment-3193630747",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  ]
 }
