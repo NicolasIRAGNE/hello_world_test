@@ -7,7 +7,7 @@ Your current context dir is:
 context/task/research/1
 
 Any work you do MUST be saved in the context dir.
-Inside context/task/research/1, you will find a list of directories with general context for the project.
+Inside context, you will find a list of directories with general context for the project.
 
 --- PROJECT'S CLAUDE.MD BELOW ---
 
