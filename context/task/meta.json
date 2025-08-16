@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/58",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/58",
-    "comments_count": 1,
+    "comments_count": 2,
     "created_at": "2025-08-16T15:50:34+00:00",
-    "updated_at": "2025-08-16T15:50:38+00:00",
+    "updated_at": "2025-08-16T15:51:52+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -26,11 +26,22 @@
   "labels": [],
   "milestone": null,
   "task": {
-    "state": "draft",
+    "state": "research",
     "issue_number": 58,
-    "updated_at": "2025-08-16T17:51:42.620612",
+    "updated_at": "2025-08-16T17:52:20.033618",
     "step_prs": {
-      "step_prs": [],
+      "step_prs": [
+        {
+          "number": 60,
+          "step": "research",
+          "title": "✅ Research: dassa",
+          "state": "open",
+          "merged": false,
+          "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/60",
+          "created_at": "2025-08-16T15:52:07+00:00",
+          "merged_at": null
+        }
+      ],
       "proposal_branch": "openmoat/task/58/proposal",
       "workflow_steps": [
         "research",
@@ -71,6 +82,30 @@
       "updated_at": "2025-08-16T15:50:38+00:00",
       "body": "/start",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/58#issuecomment-3193750394",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193750916,
+      "node_id": "IC_kwDOPe7hG86-XMWE",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T15:51:52+00:00",
+      "updated_at": "2025-08-16T15:51:52+00:00",
+      "body": "🚀 **Workflow Started**\n\nProposal PR created: #59\n\n**Next Steps:**\n- Research work will be done via PRs targeting the proposal branch\n- Coding work will be done via PRs targeting the proposal branch\n- Manual review will be done via PRs targeting the proposal branch\n- Progress will be reported in the proposal PR comments\n\nThe proposal branch will accumulate all changes and be merged when complete.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/58#issuecomment-3193750916",
       "reactions": {
         "+1": 0,
         "-1": 0,
