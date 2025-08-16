@@ -21,9 +21,9 @@
       "description": "Allow project instructions"
     },
     {
-      "pattern": "context/task/research/3/**",
+      "pattern": "context/task/research/4/**",
       "action": "Allow",
-      "description": "Allow access to current run (research/3) files only"
+      "description": "Allow access to current run (research/4) files only"
     },
     {
       "pattern": "context/task/meta.json",
