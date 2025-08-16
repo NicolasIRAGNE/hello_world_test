@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/32",
-    "comments_count": 1,
+    "comments_count": 3,
     "created_at": "2025-08-16T14:18:48+00:00",
-    "updated_at": "2025-08-16T14:18:53+00:00",
+    "updated_at": "2025-08-16T14:19:44+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -26,11 +26,22 @@
   "labels": [],
   "milestone": null,
   "task": {
-    "state": "draft",
+    "state": "research",
     "issue_number": 32,
-    "updated_at": "2025-08-16T16:19:15.117594",
+    "updated_at": "2025-08-16T16:19:53.671753",
     "step_prs": {
-      "step_prs": [],
+      "step_prs": [
+        {
+          "number": 34,
+          "step": "research",
+          "title": "🔬 Research: sadsadasa",
+          "state": "open",
+          "merged": false,
+          "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/34",
+          "created_at": "2025-08-16T14:19:42+00:00",
+          "merged_at": null
+        }
+      ],
       "proposal_branch": "openmoat/task/32/proposal",
       "workflow_steps": [
         "research",
@@ -71,6 +82,54 @@
       "updated_at": "2025-08-16T14:18:53+00:00",
       "body": "/start",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32#issuecomment-3193700716",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193701102,
+      "node_id": "IC_kwDOPe7hG86-XALu",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T14:19:24+00:00",
+      "updated_at": "2025-08-16T14:19:24+00:00",
+      "body": "🚀 **Workflow Started**\n\nProposal PR created: #33\n\n**Next Steps:**\n- Research work will be done via PRs targeting the proposal branch\n- Coding work will be done via PRs targeting the proposal branch\n- Manual review will be done via PRs targeting the proposal branch\n- Progress will be reported in the proposal PR comments\n\nThe proposal branch will accumulate all changes and be merged when complete.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32#issuecomment-3193701102",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193701934,
+      "node_id": "IC_kwDOPe7hG86-XAYu",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T14:19:44+00:00",
+      "updated_at": "2025-08-16T14:19:44+00:00",
+      "body": "🔬 **Research Step Started**\n\nResearch PR created: #34\nThis PR targets the proposal branch and will contain the research work.\n\nOnce research is complete and the PR is merged, the next step will automatically begin.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32#issuecomment-3193701934",
       "reactions": {
         "+1": 0,
         "-1": 0,
