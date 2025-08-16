@@ -3,5 +3,8 @@
   "run_id": 6,
   "issue_number": 4,
   "pr_comments": [],
-  "created_at": "2025-08-16T16:07:15.080664"
+  "created_at": "2025-08-16T16:07:15.080664",
+  "pr_number": 26,
+  "pr_status": "closed",
+  "updated_at": "2025-08-16T16:09:14.437513"
 }
