@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/79",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/79",
-    "comments_count": 1,
+    "comments_count": 2,
     "created_at": "2025-08-16T17:30:14+00:00",
-    "updated_at": "2025-08-16T17:30:29+00:00",
+    "updated_at": "2025-08-16T17:31:01+00:00",
     "closed_at": null,
     "body": "but make it funny"
   },
@@ -26,11 +26,22 @@
   "labels": [],
   "milestone": null,
   "task": {
-    "state": "draft",
+    "state": "research",
     "issue_number": 79,
-    "updated_at": "2025-08-16T19:30:51.919442",
+    "updated_at": "2025-08-16T19:39:49.461484",
     "step_prs": {
-      "step_prs": [],
+      "step_prs": [
+        {
+          "number": 81,
+          "step": "research",
+          "title": "✅ Research: Add hello world in python",
+          "state": "open",
+          "merged": false,
+          "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/81",
+          "created_at": "2025-08-16T17:39:35+00:00",
+          "merged_at": null
+        }
+      ],
       "proposal_branch": "openmoat/task/79/proposal",
       "workflow_steps": [
         "research",
@@ -71,6 +82,30 @@
       "updated_at": "2025-08-16T17:30:29+00:00",
       "body": "/start",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/79#issuecomment-3193803384",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193803643,
+      "node_id": "IC_kwDOPe7hG86-XZN7",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T17:31:01+00:00",
+      "updated_at": "2025-08-16T17:31:01+00:00",
+      "body": "🚀 **Workflow Started**\n\nProposal PR created: #80\n\n**Next Steps:**\n- Research work will be done via PRs targeting the proposal branch\n- Coding work will be done via PRs targeting the proposal branch\n- Manual review will be done via PRs targeting the proposal branch\n- Progress will be reported in the proposal PR comments\n\nThe proposal branch will accumulate all changes and be merged when complete.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/79#issuecomment-3193803643",
       "reactions": {
         "+1": 0,
         "-1": 0,
