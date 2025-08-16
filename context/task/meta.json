@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/32",
-    "comments_count": 3,
+    "comments_count": 4,
     "created_at": "2025-08-16T14:18:48+00:00",
-    "updated_at": "2025-08-16T14:19:44+00:00",
+    "updated_at": "2025-08-16T14:22:25+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -26,20 +26,30 @@
   "labels": [],
   "milestone": null,
   "task": {
-    "state": "research",
+    "state": "coding",
     "issue_number": 32,
-    "updated_at": "2025-08-16T16:19:53.671753",
+    "updated_at": "2025-08-16T16:22:40.843992",
     "step_prs": {
       "step_prs": [
+        {
+          "number": 35,
+          "step": "coding",
+          "title": "💻 Coding: sadsadasa",
+          "state": "open",
+          "merged": false,
+          "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/35",
+          "created_at": "2025-08-16T14:22:23+00:00",
+          "merged_at": null
+        },
         {
           "number": 34,
           "step": "research",
           "title": "🔬 Research: sadsadasa",
-          "state": "open",
-          "merged": false,
+          "state": "closed",
+          "merged": true,
           "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/34",
           "created_at": "2025-08-16T14:19:42+00:00",
-          "merged_at": null
+          "merged_at": "2025-08-16T14:21:33+00:00"
         }
       ],
       "proposal_branch": "openmoat/task/32/proposal",
@@ -130,6 +140,30 @@
       "updated_at": "2025-08-16T14:19:44+00:00",
       "body": "🔬 **Research Step Started**\n\nResearch PR created: #34\nThis PR targets the proposal branch and will contain the research work.\n\nOnce research is complete and the PR is merged, the next step will automatically begin.",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32#issuecomment-3193701934",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193703397,
+      "node_id": "IC_kwDOPe7hG86-XAvl",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T14:22:25+00:00",
+      "updated_at": "2025-08-16T14:22:25+00:00",
+      "body": "💻 **Coding Step Started**\n\nCoding PR created: #35\nThis PR targets the proposal branch and will contain the coding work.\n\nOnce coding is complete and the PR is merged, the next step will automatically begin.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32#issuecomment-3193703397",
       "reactions": {
         "+1": 0,
         "-1": 0,
