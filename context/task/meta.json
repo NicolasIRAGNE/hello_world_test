@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/62",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/62",
-    "comments_count": 2,
+    "comments_count": 3,
     "created_at": "2025-08-16T16:03:33+00:00",
-    "updated_at": "2025-08-16T16:04:09+00:00",
+    "updated_at": "2025-08-16T16:06:59+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -26,11 +26,22 @@
   "labels": [],
   "milestone": null,
   "task": {
-    "state": "ready",
+    "state": "research",
     "issue_number": 62,
-    "updated_at": "2025-08-16T18:06:45.544438",
+    "updated_at": "2025-08-16T18:07:59.673252",
     "step_prs": {
-      "step_prs": [],
+      "step_prs": [
+        {
+          "number": 64,
+          "step": "research",
+          "title": "🔬 Research: Add a nice hello world in python",
+          "state": "open",
+          "merged": false,
+          "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/64",
+          "created_at": "2025-08-16T16:06:57+00:00",
+          "merged_at": null
+        }
+      ],
       "proposal_branch": "openmoat/task/62/proposal",
       "workflow_steps": [
         "research",
@@ -95,6 +106,30 @@
       "updated_at": "2025-08-16T16:04:09+00:00",
       "body": "🚀 **Workflow Started**\n\nProposal PR created: #63\n\n**Next Steps:**\n- Research work will be done via PRs targeting the proposal branch\n- Coding work will be done via PRs targeting the proposal branch\n- Manual review will be done via PRs targeting the proposal branch\n- Progress will be reported in the proposal PR comments\n\nThe proposal branch will accumulate all changes and be merged when complete.",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/62#issuecomment-3193757235",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193758867,
+      "node_id": "IC_kwDOPe7hG86-XOST",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T16:06:59+00:00",
+      "updated_at": "2025-08-16T16:06:59+00:00",
+      "body": "🔬 **Research Step Started**\n\nResearch PR created: #64\nThis PR targets the proposal branch and will contain the research work.\n\nOnce research is complete and the PR is merged, the next step will automatically begin.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/62#issuecomment-3193758867",
       "reactions": {
         "+1": 0,
         "-1": 0,
