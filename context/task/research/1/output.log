@@ -2,3 +2,10 @@
 
 Started at: 2025-08-16T19:54:02.231665
 
+
+
+--- Agent started at 2025-08-16T19:54:03.240337 ---
+
+error: option '--output-format <format>' argument '--stream-json' is invalid. Allowed choices are text, json, stream-json.
+
+--- Agent completed at 2025-08-16T19:54:03.949987 ---
