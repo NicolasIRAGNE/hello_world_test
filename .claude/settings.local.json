@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "pattern": "**",
+      "action": "Deny",
+      "description": "Deny access to all files by default"
+    },
+    {
+      "pattern": "*.md",
+      "action": "Allow",
+      "description": "Allow README and documentation files"
+    },
+    {
+      "pattern": "*.py",
+      "action": "Allow",
+      "description": "Allow Python files for code understanding"
+    },
+    {
+      "pattern": "CLAUDE.md",
+      "action": "Allow",
+      "description": "Allow project instructions"
+    },
+    {
+      "pattern": "context/task/research/1/**",
+      "action": "Allow",
+      "description": "Allow access to current run (research/1) files only"
+    },
+    {
+      "pattern": "context/task/meta.json",
+      "action": "Allow",
+      "description": "Allow access to task metadata"
+    }
+  ]
+}
