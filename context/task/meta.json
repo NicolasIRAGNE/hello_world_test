@@ -1,0 +1,86 @@
+{
+  "issue": {
+    "number": 79,
+    "id": 3327474761,
+    "node_id": "I_kwDOPe7hG87GVTxJ",
+    "title": "Add hello world in python",
+    "state": "open",
+    "locked": false,
+    "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/79",
+    "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/79",
+    "comments_count": 1,
+    "created_at": "2025-08-16T17:30:14+00:00",
+    "updated_at": "2025-08-16T17:30:29+00:00",
+    "closed_at": null,
+    "body": "but make it funny"
+  },
+  "author": {
+    "login": "NicolasIRAGNE",
+    "id": 16356420,
+    "node_id": "MDQ6VXNlcjE2MzU2NDIw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+    "url": "https://github.com/NicolasIRAGNE",
+    "type": "User"
+  },
+  "assignees": [],
+  "labels": [],
+  "milestone": null,
+  "task": {
+    "state": "draft",
+    "issue_number": 79,
+    "updated_at": "2025-08-16T19:30:51.919442",
+    "step_prs": {
+      "step_prs": [],
+      "proposal_branch": "openmoat/task/79/proposal",
+      "workflow_steps": [
+        "research",
+        "coding",
+        "manual_review"
+      ]
+    }
+  },
+  "repository": {
+    "full_name": "NicolasIRAGNE/hello_world_test",
+    "name": "hello_world_test",
+    "owner": "NicolasIRAGNE",
+    "private": false,
+    "default_branch": "main"
+  },
+  "pull_request": null,
+  "reactions": {
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "comments": [
+    {
+      "id": 3193803384,
+      "node_id": "IC_kwDOPe7hG86-XZJ4",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T17:30:29+00:00",
+      "updated_at": "2025-08-16T17:30:29+00:00",
+      "body": "/start",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/79#issuecomment-3193803384",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    }
+  ]
+}
