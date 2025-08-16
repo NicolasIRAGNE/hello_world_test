@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/65",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/65",
-    "comments_count": 1,
+    "comments_count": 2,
     "created_at": "2025-08-16T16:11:53+00:00",
-    "updated_at": "2025-08-16T16:11:57+00:00",
+    "updated_at": "2025-08-16T16:12:27+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -26,9 +26,9 @@
   "labels": [],
   "milestone": null,
   "task": {
-    "state": "draft",
+    "state": "ready",
     "issue_number": 65,
-    "updated_at": "2025-08-16T18:12:17.162954",
+    "updated_at": "2025-08-16T18:12:45.535329",
     "step_prs": {
       "step_prs": [],
       "proposal_branch": "openmoat/task/65/proposal",
@@ -71,6 +71,30 @@
       "updated_at": "2025-08-16T16:11:57+00:00",
       "body": "/start",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/65#issuecomment-3193761307",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193761514,
+      "node_id": "IC_kwDOPe7hG86-XO7q",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T16:12:27+00:00",
+      "updated_at": "2025-08-16T16:12:27+00:00",
+      "body": "🚀 **Workflow Started**\n\nProposal PR created: #66\n\n**Next Steps:**\n- Research work will be done via PRs targeting the proposal branch\n- Coding work will be done via PRs targeting the proposal branch\n- Manual review will be done via PRs targeting the proposal branch\n- Progress will be reported in the proposal PR comments\n\nThe proposal branch will accumulate all changes and be merged when complete.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/65#issuecomment-3193761514",
       "reactions": {
         "+1": 0,
         "-1": 0,
