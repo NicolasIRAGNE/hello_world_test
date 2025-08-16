@@ -8,9 +8,9 @@
     "locked": false,
     "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32",
     "api_url": "https://api.github.com/repos/NicolasIRAGNE/hello_world_test/issues/32",
-    "comments_count": 4,
+    "comments_count": 5,
     "created_at": "2025-08-16T14:18:48+00:00",
-    "updated_at": "2025-08-16T14:22:25+00:00",
+    "updated_at": "2025-08-16T14:24:41+00:00",
     "closed_at": null,
     "body": ""
   },
@@ -26,20 +26,30 @@
   "labels": [],
   "milestone": null,
   "task": {
-    "state": "coding",
+    "state": "manual_review",
     "issue_number": 32,
-    "updated_at": "2025-08-16T16:22:40.843992",
+    "updated_at": "2025-08-16T16:24:59.024796",
     "step_prs": {
       "step_prs": [
+        {
+          "number": 36,
+          "step": "manual_review",
+          "title": "👁️ Manual_Review: sadsadasa",
+          "state": "open",
+          "merged": false,
+          "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/36",
+          "created_at": "2025-08-16T14:24:39+00:00",
+          "merged_at": null
+        },
         {
           "number": 35,
           "step": "coding",
           "title": "💻 Coding: sadsadasa",
-          "state": "open",
-          "merged": false,
+          "state": "closed",
+          "merged": true,
           "url": "https://github.com/NicolasIRAGNE/hello_world_test/pull/35",
           "created_at": "2025-08-16T14:22:23+00:00",
-          "merged_at": null
+          "merged_at": "2025-08-16T14:23:45+00:00"
         },
         {
           "number": 34,
@@ -164,6 +174,30 @@
       "updated_at": "2025-08-16T14:22:25+00:00",
       "body": "💻 **Coding Step Started**\n\nCoding PR created: #35\nThis PR targets the proposal branch and will contain the coding work.\n\nOnce coding is complete and the PR is merged, the next step will automatically begin.",
       "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32#issuecomment-3193703397",
+      "reactions": {
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 3193704573,
+      "node_id": "IC_kwDOPe7hG86-XBB9",
+      "author": {
+        "login": "NicolasIRAGNE",
+        "id": 16356420,
+        "avatar_url": "https://avatars.githubusercontent.com/u/16356420?v=4",
+        "url": "https://github.com/NicolasIRAGNE"
+      },
+      "created_at": "2025-08-16T14:24:41+00:00",
+      "updated_at": "2025-08-16T14:24:41+00:00",
+      "body": "👁️ **Manual_Review Step Started**\n\nManual_Review PR created: #36\nThis PR targets the proposal branch and will contain the manual_review work.\n\nOnce manual_review is complete and the PR is merged, the next step will automatically begin.",
+      "url": "https://github.com/NicolasIRAGNE/hello_world_test/issues/32#issuecomment-3193704573",
       "reactions": {
         "+1": 0,
         "-1": 0,
